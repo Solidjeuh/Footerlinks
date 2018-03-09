@@ -3,7 +3,7 @@
 *
 * @package phpBB Extension - Footerlinks
 * @copyright (c) 2016 joyceluna (https://phpbb-style-design.de)
-* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -39,12 +39,12 @@ $lang = array_merge($lang, array(
 	'ACP_FL_MOD'						=> 'Footerlinks',
 	'FL_VIEW'							=> 'Overzicht Footerlinks',
 	'FL_BVIEW'							=> 'Tonen',
-	'FL_BCOMMENT'						=> 'Klik op een blok om te configureren. Een leeg veld wordt niet weergegeven. <br /> De blokken worden van links naar rechts gesorteerd en van het midden gecentreerd.',
+	'FL_BCOMMENT'						=> 'Klik op een blok om te configureren. Een leeg veld wordt niet weergegeven. <br /> De blokken worden gecentreerd weergegeven.<br><br>externe linken vereisen de specificatie van http(s): //, Voorbeeld: https://www.voorbeeld.be',
 	'FL_ENABLE'							=> 'Activeer Footerlinks',
 	'FL_EXT_LINK'						=> 'Open links in aparte vensters',
-	'FL_ENABLE_B1'						=> 'Blok 1:',
-	'FL_ENABLE_B2'						=> 'Blok 2:',
-	'FL_ENABLE_B3'						=> 'Blok 3:',
+	'FL_ENABLE_B1'						=> '▼ Blok 1:',
+	'FL_ENABLE_B2'						=> '▼ Blok 2:',
+	'FL_ENABLE_B3'						=> '▼ Blok 3:',
 	'FL_CAT_TITEL'						=> 'Titel',
 	'FL_URL'							=> 'URL',
 	'FL_URL_TEXT'						=> 'Link Beschrijving',
